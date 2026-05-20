@@ -1,4 +1,4 @@
-🚀 JavaScript Pattern Printing
+# 🚀 JavaScript Pattern Printing
 
 Practice 30 JavaScript pattern problems to improve loops, logic building, and nested loop concepts.
 
