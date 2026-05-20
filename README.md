@@ -2,7 +2,7 @@
 
 Practice 30 JavaScript pattern problems to improve loops, logic building, and nested loop concepts.
 
-📌 Topics Included
+## 📌 Topics Included
 
 - ⭐ Star Patterns
 - 🔢 Number Patterns
@@ -10,13 +10,13 @@ Practice 30 JavaScript pattern problems to improve loops, logic building, and ne
 - 💠 Hollow Patterns
 - 🔺 Pyramid & Diamond Patterns
 
-🛠️ Tech Used
+## 🛠️ Tech Used
 
 - JavaScript
 - Node.js
 - VS Code
 
-▶️ To Run
+## ▶️ Run
 
 ```bash
 node filename.js
